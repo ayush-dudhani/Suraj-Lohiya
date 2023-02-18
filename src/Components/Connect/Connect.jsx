@@ -39,6 +39,19 @@ export default function Footer() {
               url="https://instagram.com/ig.commandobgmi?igshid=YmMyMTA2M2Y="
               target="_blank"
             />
+            <SocialIcon
+              url="http://discordapp.com/users/565754217206382612"
+              target="_blank"
+            />
+            <SocialIcon
+              url="https://www.snapchat.com/add/suraj.lohiya99?share_id=ELKoYZasR22bPylIgizzbg&locale=en_IN"
+              target="_blank"
+            />
+            <SocialIcon
+              url="https://www.facebook.com/gamingwithcommamdo?mibextid=LQQJ4d"
+              target="_blank"
+            />
+
           </div>
         </div>
       </section>
