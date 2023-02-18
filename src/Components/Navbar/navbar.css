@@ -1,9 +1,13 @@
 .nav-container{
-    background-color: rgba(89, 16, 16, 0.5);
+    /* background-color: rgba(89, 16, 16, 0.5) */
+    background-color: rgba(209, 181, 25, 0.648);
     height: 12vh;
     display: flex;
     justify-content: space-around;
-    box-shadow: 20px 20px -20px rgb(241, 8, 8);
+    /* box-shadow: 20px 20px -20px rgb(241, 8, 8); */
+    box-shadow: 20px 20px -20px gold;
+
+
     position: fixed;
     width: 100%;
     z-index: 999;
@@ -12,10 +16,12 @@
     display: flex;
     align-items: center;
     font-size: 3rem;
-    color: rgb(237, 7, 15);
+    /* color: rgb(237, 7, 15); */
+    color: goldenrod;
     font-weight: 500;
     font-family: 'Pacifico', cursive;
-    text-shadow: 2px 2px 2px rgb(40, 13, 213);
+    /* text-shadow: 2px 2px 2px rgb(40, 13, 213); */
+    text-shadow: 2px 2px 2px red;
 }
 @import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner:wght@600&family=Roboto:wght@500&display=swap');
 .nav-list{
@@ -34,10 +40,10 @@
 }
 
 .nav-item .active{
-    padding-bottom: 0.5em;
-    border-bottom: 2px solid red;
+    padding-bottom: 0.2em;
+    border-bottom: 3px solid red;
 }
 .nav-item a:hover{
-    padding-bottom: 0.5em;
-    border-bottom: 2px solid red;
+    padding-bottom: 0.2em;
+    border-bottom: 3px solid red;
 }

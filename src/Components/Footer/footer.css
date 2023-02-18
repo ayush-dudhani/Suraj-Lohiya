@@ -3,6 +3,8 @@
     color: wheat;
     display: flex;
     justify-content: space-around;
-    box-shadow: -1px -17px 19px -10px rgba(252,2,2,0.75);
+    /* box-shadow: -1px -17px 19px -10px rgba(252,2,2,0.75); */
+    box-shadow: -1px -17px 19px -10px gold;
+
     margin-top: 50px;
 }

@@ -5,8 +5,10 @@
     margin: 2rem 35% 1rem 35%;
     background-color: rgba(47, 41, 41, 0.5);
     border-radius: 2rem;
-    box-shadow: 0 3px 10px #fb0404;
-    color: #fb0404;
+    /* box-shadow: 0 3px 10px #fb0404; */
+    box-shadow: 0 3px 10px goldenrod;
+    /* color: #fb0404; */
+    color: goldenrod;
     text-align: center;
 }
 .connect-container h4{
