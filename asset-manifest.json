@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Suraj-Lohiya/static/css/main.23367967.css",
+    "main.js": "/Suraj-Lohiya/static/js/main.808fba32.js",
+    "static/js/787.55722989.chunk.js": "/Suraj-Lohiya/static/js/787.55722989.chunk.js",
+    "static/media/img4.PNG": "/Suraj-Lohiya/static/media/img4.ee90ac4793fdd32158ba.PNG",
+    "static/media/img2.PNG": "/Suraj-Lohiya/static/media/img2.ebfb8120e8593e78acfe.PNG",
+    "static/media/img1.PNG": "/Suraj-Lohiya/static/media/img1.47e33c791139858f6367.PNG",
+    "static/media/img3.PNG": "/Suraj-Lohiya/static/media/img3.a64600e324f8b587ab21.PNG",
+    "static/media/logo.jpg": "/Suraj-Lohiya/static/media/logo.f595cfb8737173f9a600.jpg",
+    "index.html": "/Suraj-Lohiya/index.html",
+    "main.23367967.css.map": "/Suraj-Lohiya/static/css/main.23367967.css.map",
+    "main.808fba32.js.map": "/Suraj-Lohiya/static/js/main.808fba32.js.map",
+    "787.55722989.chunk.js.map": "/Suraj-Lohiya/static/js/787.55722989.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23367967.css",
+    "static/js/main.808fba32.js"
+  ]
+}
