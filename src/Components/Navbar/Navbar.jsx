@@ -36,7 +36,7 @@ export default function Navbar() {
             activeClass="active"
             spy={true}
             smooth={true}
-            offset={-200}
+            offset={-100}
             duration={500}
           >
             Connect
