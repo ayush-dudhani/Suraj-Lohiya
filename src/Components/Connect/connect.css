@@ -1,0 +1,36 @@
+.connect-container{
+    display: flex;
+    justify-content: space-between;;
+    flex-direction: column;
+    margin: 2rem 35% 1rem 35%;
+    background-color: rgba(47, 41, 41, 0.5);
+    border-radius: 2rem;
+    box-shadow: 0 3px 10px #fb0404;
+    color: #fb0404;
+    text-align: center;
+}
+.connect-container h4{
+    font-size: x-large;
+    margin: 0;
+    padding: 1rem;
+}
+
+.social-links{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    padding: 1rem;
+
+}
+.yt-video{
+    display: flex;
+    justify-content: center;
+}
+
+.youtube-heading{
+    color: white;
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+}
+

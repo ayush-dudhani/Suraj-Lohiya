@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(4, 4, 7)
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.main-container{
+    padding-top: 5vh;
+    color: red;
+    display: flex;
+    width: 100%;
+}
+.intro{
+    color: white;
+    font-size: 40px;    
+    font-family: 'Roboto', sans-serif;
+    width: 50%;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 8%;
+    padding-top: 10%;
+    flex-direction: column;
+}
+
+.logo{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo img{
+    border-radius: 20%;
+    width: 20;
+    height: 10;
+    box-shadow: 20px 20px 20px red;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+
+.commando-gaming{
+    font-size: 5rem;
+    color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Josefin Sans', sans-serif;
+    height: 220px;
+}

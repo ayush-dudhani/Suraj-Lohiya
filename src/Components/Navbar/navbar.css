@@ -1,0 +1,43 @@
+.nav-container{
+    background-color: rgba(89, 16, 16, 0.5);
+    height: 12vh;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 20px 20px -20px rgb(241, 8, 8);
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+}
+.nav-name{
+    display: flex;
+    align-items: center;
+    font-size: 3rem;
+    color: rgb(237, 7, 15);
+    font-weight: 500;
+    font-family: 'Pacifico', cursive;
+    text-shadow: 2px 2px 2px rgb(40, 13, 213);
+}
+@import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner:wght@600&family=Roboto:wght@500&display=swap');
+.nav-list{
+    display: flex;
+    align-items: center;
+    font-size: 1.8rem;
+    color: white;
+    font-weight: 400;
+    /* font-family: 'Edu SA Beginner', cursive; */
+    font-family: 'Roboto', sans-serif;
+}
+.nav-list li{
+    list-style: none;
+    padding: 0 2rem;
+    cursor: pointer;
+}
+
+.nav-item .active{
+    padding-bottom: 0.5em;
+    border-bottom: 2px solid red;
+}
+.nav-item a:hover{
+    padding-bottom: 0.5em;
+    border-bottom: 2px solid red;
+}
